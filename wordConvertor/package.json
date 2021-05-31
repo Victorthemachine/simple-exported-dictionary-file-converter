@@ -1,0 +1,14 @@
+{
+  "name": "wordconvertor",
+  "version": "1.0.0",
+  "description": "simple converter for Liboš's rather weird file structures",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nya~san",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.2.1"
+  }
+}
