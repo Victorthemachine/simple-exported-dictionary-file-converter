@@ -6,6 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "pkg": {
+    "scripts": [],
+    "assets": [
+      "/entry",
+      "/out"
+    ],
+    "targets": [
+      "node12-linux-x64",
+      "node12-macos-x64",
+      "node12-win-x86"
+    ]
+  },
   "author": "Nya~san",
   "license": "ISC",
   "dependencies": {
